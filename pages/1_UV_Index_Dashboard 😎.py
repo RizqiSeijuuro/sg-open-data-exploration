@@ -96,8 +96,8 @@ if date_selected == TODAY:
     )
     max_timestamp = df_day_selected['timestamp'].max()
     line_chart.add_annotation(
-        x=max_timestamp + datetime.timedelta(minutes=35),
-        y=df_day_selected[df_day_selected['timestamp'] == max_timestamp]['value'].iloc[0]+0.3,
+        x=max_timestamp + datetime.timedelta(minutes=25),
+        y=df_day_selected[df_day_selected['timestamp'] == max_timestamp]['value'].iloc[0]+0.2,
         text="Last data updated",
         showarrow=False,
     )
