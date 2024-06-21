@@ -1,5 +1,12 @@
 # SG Open Data Exploration
 Welcome to the **Singapore Open Data Explorer** repository! This project leverages data from the [Singapore Open Data](https://data.gov.sg) platform to build interactive dashboards and other data visualizations using Streamlit. The goal is to make data exploration accessible and insightful for everyone interested in Singapore's diverse datasets.
+## Table of Contents
+
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contact](#contact)
 ## About the Project
 
 Singapore Open Data Explorer is designed to help users explore and visualize datasets from the Singapore government's open data initiative. With Streamlit, we've built a user-friendly interface that allows for interactive data exploration without requiring any programming knowledge.
