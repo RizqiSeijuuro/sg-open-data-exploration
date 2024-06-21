@@ -1,5 +1,6 @@
-import streamlit as st
+"""Homepage of SG Open Data Exploration"""
 
+import streamlit as st
 
 
 st.set_page_config(
